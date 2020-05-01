@@ -1,0 +1,7 @@
+id=adreno-3xx-developer-driver
+name=Qualcomm Adreno 300 series developer preview driver
+version=v1.0
+versionCode=1
+author=multiwirth
+description=This will install latest developer preview drivers for any Adreno 3xx gpu
+

@@ -18,7 +18,7 @@ This module was tested on following devices:
 - HTC One M7
 
 
-## Copyright and all rights belong to qualcomm
+## Copyright and all rights belong to Qualcomm Technologies International
 
 
 ## Visit my xda thread

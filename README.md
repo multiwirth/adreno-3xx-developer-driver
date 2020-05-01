@@ -22,5 +22,5 @@ This module was tested on following devices:
 
 
 ## Visit my xda thread
-currently no thread avaiable
+https://forum.xda-developers.com/apps/magisk/module-qualcomm-adreno-300-series-t4092447
 

@@ -16,6 +16,7 @@ This module was tested on following devices:
 - Samsung Galaxy S3 Neo
 - HTC One M8
 - HTC One M7
+- Samsung Galaxy S5 (klte)
 
 
 ## Copyright and all rights belong to Qualcomm Technologies International
